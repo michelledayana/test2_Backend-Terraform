@@ -1,0 +1,4 @@
+# Ignorar archivos de estado y providers de Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
